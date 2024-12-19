@@ -1,0 +1,12 @@
+streamlit==1.31.0
+langchain==0.1.0
+langchain-community==0.0.13
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+spacy==3.7.2
+openai==1.10.0
+python-dotenv==1.0.0
+pypdf==3.17.1
+
+# Download spacy model
+python -m spacy download en_core_web_sm
