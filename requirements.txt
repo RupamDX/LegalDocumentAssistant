@@ -7,6 +7,4 @@ spacy==3.7.2
 openai==1.10.0
 python-dotenv==1.0.0
 pypdf==3.17.1
-
-# Download spacy model
-python -m spacy download en_core_web_sm
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.0/en_core_web_sm-3.7.0.tar.gz
