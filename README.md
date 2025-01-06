@@ -69,7 +69,7 @@ Enter a question about the document in the input field and get context-specific 
 
 Demo
 
-Check out the demo video to see the application in action!
+Check out the https://www.linkedin.com/posts/rupam-patra_legaltech-ai-innovation-activity-7276355674190626817-gZT9?utm_source=share&utm_medium=member_desktop video to see the application in action!
 
 Future Enhancements
 
